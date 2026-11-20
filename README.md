@@ -1,6 +1,8 @@
 # Leonida Legend — GTA VI Trophy Guide & Tracker
 
-[![make.fun](https://img.shields.io/badge/make.fun-gta6--trophy--guide--01-ff4d7e)](https://make.fun/c/gta6-trophy-guide-01)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/danzzkeceh4-bit/makefun-gta6-trophy-guide-01/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/danzzkeceh4-bit/makefun-gta6-trophy-guide-01/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 [![License: MIT](https://img.shields.io/badge/License-MIT-3fd8c2.svg)](LICENSE)
 
 An offline web app that is the best guide and tracker for the **55 PlayStation 5 trophies of
