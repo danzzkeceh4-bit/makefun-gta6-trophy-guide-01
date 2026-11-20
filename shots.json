@@ -1,6 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/?demo=1", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-guide.jpg", "path": "/?demo=1&view=guide&id=28", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-roadmap.jpg", "path": "/?demo=1&view=roadmap", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "4-missables.jpg", "path": "/?demo=1&view=missables", "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-checklist.jpg","path":"/?demo=1","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","path":"/?demo=1&view=guide&id=28","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","path":"/?demo=1&view=roadmap","viewport":{"height":800,"width":1280}},{"file":"4-missables.jpg","path":"/?demo=1&view=missables","viewport":{"height":800,"width":1280}}]
